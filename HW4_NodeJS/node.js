@@ -8,7 +8,8 @@
  References: https://www.youtube.com/watch?v=mMAtxHPoodI
 	     http://www.airspayce.com/mikem/bcm2835/
 	     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min
-	     https://www.w3schools.com/jsref/jsref_reduce.asp */
+	     https://www.w3schools.com/jsref/jsref_reduce.asp
+	     Version of Node Js: 10.11.0*/
 
 var sensorLib = require('node-dht-sensor');
 var count = 0
